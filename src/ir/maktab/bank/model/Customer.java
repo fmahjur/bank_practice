@@ -1,4 +1,4 @@
 package ir.maktab.bank.model;
 
-public abstract class customer {
+public abstract class Customer {
 }
